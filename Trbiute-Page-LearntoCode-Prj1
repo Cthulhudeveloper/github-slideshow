@@ -1,0 +1,38 @@
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+<style>
+  main{text-align:center;}
+  h1{text-align:center;}
+  h2{text-align:center;}
+  ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+    line-height: 1.6;}
+  
+ img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+   margin: 0 auto;}
+  #tribute-link {margin:0 auto 50px auto;}
+</style>
+<main id="main">
+<h1 id="title">John Calvin</h1>
+  <h2> Theological giant of his time.</h2>
+  <h3 id="tribute-info">List of John Calvins accomplishments:</h3>
+  <section id="general-info">
+  <ul> <li>Wrote the Institutes of the Christian Religion by the time he was 25</li>
+    <li>Wrote biblical commentaries on every old and new testament book in the bible</li>
+     <li> Changed the moral and spiritual direction of Geneva that stunned outsiders who visited the city</li>
+   <li> Permenantly changed the political, spiritual, and religious direction of the nation of France from Catholic to Protestant</li>
+  </ul>
+  </section>
+  <div id="img-div">
+<img-div>
+<div id="img-caption">John Calvin portrait</div>
+  </img-div>
+   <img id="image" src="https://daily.jstor.org/wp-content/uploads/2017/07/john_calvin_1050x700.jpg" alt="rebel with a cause">
+  
+    <a id="tribute-link" href="https://en.wikipedia.org/wiki/John_Calvin" target="_blank"> To learn more about Calvins incredible and complex life click here</a>
+  </div>
+</main>
